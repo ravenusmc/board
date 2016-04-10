@@ -3,3 +3,5 @@
 This project will be a messaging board somewhat similar to reddit. I am excited to do this project because I may be adding on a geolocation aspect to it in the future. (If I were to do that I may build a whole new project.)
 
 == GEMS
+
+Bootstrap, Simple-form
