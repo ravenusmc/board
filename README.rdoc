@@ -4,4 +4,4 @@ This project will be a messaging board somewhat similar to reddit. I am excited 
 
 == GEMS
 
-Bootstrap, Simple-form
+Bootstrap, Simple-form, devise
